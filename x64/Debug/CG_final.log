@@ -1,0 +1,23 @@
+﻿  Main.cpp
+E:\work\computer graphics\final project\CG_final\Main.cpp(143,33): warning C4305: “+=”: 从“double”到“float”截断
+E:\work\computer graphics\final project\CG_final\Main.cpp(148,33): warning C4305: “-=”: 从“double”到“float”截断
+E:\work\computer graphics\final project\CG_final\Main.cpp(153,33): warning C4305: “+=”: 从“double”到“float”截断
+E:\work\computer graphics\final project\CG_final\Main.cpp(158,33): warning C4305: “-=”: 从“double”到“float”截断
+  myglm.cpp
+E:\work\computer graphics\final project\CG_final\myglm.cpp(54,51): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\work\computer graphics\final project\CG_final\myglm.cpp(54,37): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\work\computer graphics\final project\CG_final\myglm.cpp(54,23): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\work\computer graphics\final project\CG_final\myglm.cpp(55,48): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\work\computer graphics\final project\CG_final\myglm.cpp(55,34): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\work\computer graphics\final project\CG_final\myglm.cpp(55,23): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\work\computer graphics\final project\CG_final\myglm.cpp(56,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\work\computer graphics\final project\CG_final\myglm.cpp(56,31): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\work\computer graphics\final project\CG_final\myglm.cpp(56,20): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\work\computer graphics\final project\CG_final\myglm.cpp(57,45): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\work\computer graphics\final project\CG_final\myglm.cpp(57,34): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\work\computer graphics\final project\CG_final\myglm.cpp(57,20): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\work\computer graphics\final project\CG_final\myglm.cpp(64,106): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\work\computer graphics\final project\CG_final\myglm.cpp(64,72): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\work\computer graphics\final project\CG_final\myglm.cpp(64,39): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  正在生成代码...
+  CG_final.vcxproj -> E:\work\computer graphics\final project\CG_final\x64\Debug\CG_final.exe
