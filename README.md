@@ -51,3 +51,13 @@ main：
   
   
   
+ myglm.h myglm.c 名字随便起的，其中定义了一些用到的东西
+ cross 求正交
+ normalize 标准化向量
+ class Point 点类， 存三个坐标
+ class MapUnit 地图里面的一个格子，由两个点决定位置，status选择这个格子里画什么（暂时只有正方体） 两个绘制函数，一个画格子一个画东西
+ class Map 地图，MapUnit二维数组存地图 Select根据输入x y判断落在那个格子里（地图绘制在xoy平面上，z值是0）
+ Main.cpp
+ SelectMap 选择地图格子，现在只能在相机对准z轴负半轴附近时能准确选取格子
+ 左键旋转角度 右键在Map上选取 选中就画一个正方体 初始什么都没有
+ wasd空格x漫游
