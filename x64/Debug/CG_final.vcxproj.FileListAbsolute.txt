@@ -1,1 +1,13 @@
 E:\work\computer graphics\final project\CG_final\x64\Debug\CG_final.exe
+D:\code\vs 2019\cg_other\CG_final_select_seccuss\CG_final 12.24 select\CG_final\x64\Debug\CG_final.exe
+D:\code\vs 2019\cg_other\CG_final_select_seccuss\CG_final 12.24 select - change\CG_final\x64\Debug\CG_final.exe
+C:\Users\19696\Desktop\CG_final\x64\Debug\CG_final.exe
+C:\Users\19696\Desktop\CG_final_合1\x64\Debug\CG_final.exe
+E:\work\computer graphics\final project\CG_final_合1_1\CG_final_合1_1\x64\Debug\CG_final.exe
+D:\code\vs 2019\our_proj\CG_final_合1_2\CG_final_合1_2\x64\Debug\CG_final.exe
+E:\大三上\计算机图形学\CG_final_合_GUI(1)\x64\Debug\CG_final.exe
+E:\大三上\计算机图形学\大作业\失败的案例\glfw框架+glut绘图+win32GUI但不兼容\x64\Debug\CG_final.exe
+E:\大三上\计算机图形学\大作业\失败的案例\准备改成glfw再试一试\x64\Debug\CG_final.exe
+E:\大三上\计算机图形学\大作业\失败的案例\准备改成glfw再试一试 - 副本\x64\Debug\CG_final.exe
+E:\大三上\计算机图形学\大作业\失败的案例\合体成功\x64\Debug\CG_final.exe
+D:\code\vs 2019\合体成功\合体成功(2)\合体成功\x64\Debug\CG_final.exe

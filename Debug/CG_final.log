@@ -1,17 +1,20 @@
-﻿  myglm.cpp
-E:\work\computer graphics\final project\CG_final\myglm.cpp(54,51): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-E:\work\computer graphics\final project\CG_final\myglm.cpp(54,37): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-E:\work\computer graphics\final project\CG_final\myglm.cpp(54,23): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-E:\work\computer graphics\final project\CG_final\myglm.cpp(55,48): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-E:\work\computer graphics\final project\CG_final\myglm.cpp(55,34): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-E:\work\computer graphics\final project\CG_final\myglm.cpp(55,23): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-E:\work\computer graphics\final project\CG_final\myglm.cpp(56,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-E:\work\computer graphics\final project\CG_final\myglm.cpp(56,31): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-E:\work\computer graphics\final project\CG_final\myglm.cpp(56,20): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-E:\work\computer graphics\final project\CG_final\myglm.cpp(57,45): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-E:\work\computer graphics\final project\CG_final\myglm.cpp(57,34): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-E:\work\computer graphics\final project\CG_final\myglm.cpp(57,20): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-E:\work\computer graphics\final project\CG_final\myglm.cpp(64,106): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-E:\work\computer graphics\final project\CG_final\myglm.cpp(64,72): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-E:\work\computer graphics\final project\CG_final\myglm.cpp(64,39): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-  CG_final.vcxproj -> E:\work\computer graphics\final project\CG_final\Debug\CG_final.exe
+﻿  ground.cpp
+E:\大三上\计算机图形学\大作业\失败的案例\准备改成glfw再试一试\cpp\ground.cpp(1,10): fatal error C1083: 无法打开包括文件: “ground.h”: No such file or directory
+  Main.cpp
+E:\大三上\计算机图形学\大作业\失败的案例\准备改成glfw再试一试\cpp\Main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\大三上\计算机图形学\大作业\失败的案例\准备改成glfw再试一试\cpp\Main.cpp(3,10): fatal error C1083: 无法打开包括文件: “main.h”: No such file or directory
+  myglm.cpp
+E:\大三上\计算机图形学\大作业\失败的案例\准备改成glfw再试一试\cpp\myglm.cpp(1,9): fatal error C1083: 无法打开包括文件: “myglm.h”: No such file or directory
+  nglm.cpp
+E:\大三上\计算机图形学\大作业\失败的案例\准备改成glfw再试一试\cpp\nglm.cpp(8,10): fatal error C1083: 无法打开包括文件: “nglm.h”: No such file or directory
+  ReadObj.cpp
+E:\大三上\计算机图形学\大作业\失败的案例\准备改成glfw再试一试\cpp\ReadObj.cpp(4,10): fatal error C1083: 无法打开包括文件: “ReadObj.h”: No such file or directory
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+E:\大三上\计算机图形学\大作业\失败的案例\准备改成glfw再试一试\include\imgui\imgui_impl_glfw.cpp(48,10): fatal error C1083: 无法打开包括文件: “GLFW/glfw3.h”: No such file or directory
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  正在生成代码...
